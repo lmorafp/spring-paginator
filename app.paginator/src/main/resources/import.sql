@@ -1,0 +1,26 @@
+/* Populate tables */
+INSERT INTO clientes (nombre, email, create_at) VALUES('Ada Lovelace', 'ada@lovelace.com', '2019-01-01');
+INSERT INTO clientes (nombre, email, create_at) VALUES('Charles Babbage', 'charles@babbage.com', '2019-01-02');
+INSERT INTO clientes (nombre, email, create_at) VALUES('Jane Doe', 'jane@doe.com', '2019-01-03');
+INSERT INTO clientes (nombre, email, create_at) VALUES('John Doe', 'john@doe.com', '2019-01-04');
+INSERT INTO clientes (nombre, email, create_at) VALUES('Cliente 05', 'client.05@gmail.com', '2019-01-05');
+INSERT INTO clientes (nombre, email, create_at) VALUES('Cliente 06', 'client.06@gmail.com', '2019-01-06');
+INSERT INTO clientes (nombre, email, create_at) VALUES('Cliente 07', 'client.07@gmail.com', '2019-01-07');
+INSERT INTO clientes (nombre, email, create_at) VALUES('Cliente 08', 'client.08@gmail.com', '2019-01-08');
+INSERT INTO clientes (nombre, email, create_at) VALUES('Cliente 09', 'client.09@gmail.com', '2019-01-09');
+INSERT INTO clientes (nombre, email, create_at) VALUES('Cliente 10', 'client.10@gmail.com', '2019-01-10');
+INSERT INTO clientes (nombre, email, create_at) VALUES('Cliente 11', 'client.11@gmail.com', '2019-01-11');
+INSERT INTO clientes (nombre, email, create_at) VALUES('Cliente 12', 'client.12@gmail.com', '2019-01-12');
+INSERT INTO clientes (nombre, email, create_at) VALUES('Cliente 13', 'client.13@gmail.com', '2019-01-13');
+INSERT INTO clientes (nombre, email, create_at) VALUES('Cliente 14', 'client.14@gmail.com', '2019-01-14');
+INSERT INTO clientes (nombre, email, create_at) VALUES('Cliente 15', 'client.15@gmail.com', '2019-01-15');
+INSERT INTO clientes (nombre, email, create_at) VALUES('Cliente 16', 'client.16@gmail.com', '2019-01-16');
+INSERT INTO clientes (nombre, email, create_at) VALUES('Cliente 17', 'client.17@gmail.com', '2019-01-17');
+INSERT INTO clientes (nombre, email, create_at) VALUES('Cliente 18', 'client.18@gmail.com', '2019-01-18');
+INSERT INTO clientes (nombre, email, create_at) VALUES('Cliente 19', 'client.19@gmail.com', '2019-01-19');  
+INSERT INTO clientes (nombre, email, create_at) VALUES('Cliente 20', 'client.20@gmail.com', '2019-01-20'); 
+INSERT INTO clientes (nombre, email, create_at) VALUES('Cliente 21', 'client.21@gmail.com', '2019-01-21');
+INSERT INTO clientes (nombre, email, create_at) VALUES('Cliente 22', 'client.22@gmail.com', '2019-01-22');
+INSERT INTO clientes (nombre, email, create_at) VALUES('Cliente 23', 'client.23@gmail.com', '2019-01-23');
+INSERT INTO clientes (nombre, email, create_at) VALUES('Cliente 24', 'client.24@gmail.com', '2019-01-24');
+INSERT INTO clientes (nombre, email, create_at) VALUES('Cliente 25', 'client.25@gmail.com', '2019-01-25');
